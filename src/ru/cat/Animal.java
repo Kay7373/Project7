@@ -1,5 +1,7 @@
 package ru.cat;
 class Animal {
+    
+    //Наследование 
 
     private final String name;
     private final String voice;
