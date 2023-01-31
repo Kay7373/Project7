@@ -1,6 +1,6 @@
 package ru.cat;
 
-\\Наследование
+//Наследование
 
 class Cat extends Animal {
 public Cat(String name){
